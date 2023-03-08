@@ -1,0 +1,53 @@
+*{
+ 
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+body{
+    
+     height: 100vh;
+     display: grid;
+     
+     
+     background-image: url(./logo\ liverpool.png);
+     background-size: 32cm;
+
+}
+
+.logo_icon{
+    gap: 30px;
+    margin: 0%;
+    width: 80px;
+
+}
+
+.logo__text{
+     color: aliceblue;
+     font-size: 55px;
+
+
+}
+
+.title__text{
+    color: aliceblue;
+    font-size: 30px;
+    width: 500px;
+    margin-top: 7cm;
+    }
+
+.description__text{
+
+    font-size: 20px;
+    width: 500px;
+    color: red;
+}
+
+
+.tenis_nike{
+    width: 200px;
+    margin-top: 1cm   ;
+    transform: translate(50%, -50);
+}
